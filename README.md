@@ -99,11 +99,7 @@ richlist
 
 ---
 
-## 🛠️ Roadmap
-
-- [ ] Top earners mode (income deltas between runs)
-- [ ] Include dirty money / crypto in totals
-- [ ] Job-filtered leaderboards (richest cops, criminals, etc.)
+## 🛠️ Upcoming Updatez
 - [ ] Persistent message edit (update one embed instead of spamming)
 
 ---
