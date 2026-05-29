@@ -93,10 +93,6 @@ richlist
 
 ---
 
-## 🖼️ Preview
-
-> *(Add a screenshot of the Discord embed here once you've got one — drop it in a `/preview` folder and link it like `![Preview](preview/leaderboard.png)`)*
-
 ---
 
 ## 🛠️ Upcoming Updatez
